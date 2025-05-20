@@ -1,0 +1,12 @@
+{
+  "machine_id": "e495c7c8-4856-4771-906a-799c56c0a23c",
+  "timestamp": "2025-05-19T23:08:32.431681",
+  "os_type": "Windows",
+  "os_version": "10.0.26100",
+  "checks": {
+    "disk_encryption": false,
+    "os_updated": false,
+    "antivirus_active": true,
+    "sleep_settings_compliant": false
+  }
+}
